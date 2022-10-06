@@ -12,12 +12,8 @@ def multiply_pair(lst):
         j -= 1
         if(j <= i):
             break
-        
-        
     return arr
+
 
 print(f'{lst} => {multiply_pair(lst)}')
 print(f'{lst2} => {multiply_pair(lst2)}')
-
-
-
