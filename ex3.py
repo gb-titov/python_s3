@@ -14,4 +14,5 @@ def get_min_max_of_fract(lst):
             min = cur
     return max - min
 
-print(f'{lst} = > {get_min_max_of_fract(lst)}')        
+print(f'{lst} = > {get_min_max_of_fract(lst)}')     
+   
